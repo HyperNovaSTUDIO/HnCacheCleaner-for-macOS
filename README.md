@@ -10,4 +10,4 @@ This is a Cache Cleaner. Safe,Fast,Free
 [Download here](https://github.com/HyperNovaSTUDIO/HnCacheCleaner-for-macOS/raw/refs/heads/main/HnCachecleaner.dmg)
 
 # Source Code
-[Download here](https://github.com/HyperNovaSTUDIO/HnCacheCleaner-for-macOS/blob/main/cachecleaner.sh)
+[Download here](https://github.com/HyperNovaSTUDIO/HnCacheCleaner-for-macOS/raw/refs/heads/main/Source.zip)
